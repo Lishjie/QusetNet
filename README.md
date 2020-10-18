@@ -3,3 +3,9 @@ This is a Tensorflow implmentation of "Is Deep Learning Effective for Quesionnai
 
 ## ToDo List
 * [x] Release code
+* [ ] Document for Installation
+* [x] Trained models
+* [x] Document for testing and training
+* [x] Evaluation
+* [ ] Demo script
+* [ ] re-organize and clean the parameters
