@@ -9,3 +9,9 @@ This is a Tensorflow implmentation of "Is Deep Learning Effective for Quesionnai
 * [x] Evaluation
 * [ ] Demo script
 * [ ] re-organize and clean the parameters
+
+## Installation
+### Requirements:
+* Python3
+* Tensorflow 
+* CUDA >= 9.0 (10.1 is recommended)
